@@ -1,1 +1,3 @@
-This would be the about page
+# About Me
+<div class="About">Hello! I’m Jadon Kam, and I'm currently a student at Wilfrid Laurier University studying User Experience Design. 
+At a young age, I developed an interest of drawing, and as I grew older, this interest developed into a passion for other types of visual art and design. As a result of my love for design and my interest in thinking of ideas and solutions to solve problems, I decided to study UX Design. My goal as a designer is to learn what users desire in a product and to improve or design a better experience for them. I am looking forward to continue to improve my design skills and to collaborate with others in future projects.</div>

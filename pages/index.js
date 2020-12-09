@@ -1,3 +1,3 @@
-export default [{"title":"About", "fname":"about.md", "specialImage":"/img/menagerie.png"},
+export default [{"title":"ABOUT", "fname":"about.md"},
 {"title":"index", "fname":"index.md"},
-{"title":"Contact", "fname":"contact.md"}];
+{"title":"CONTACT", "fname":"contact.md"}];

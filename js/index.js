@@ -6,8 +6,8 @@ import aItems from "../items/index.js";
 
 class Page {
     constructor(){
-        this.sName = "Jadon Kam";
-        this.sUrlToEmailer = "https://floating-dawn-52629.herokuapp.com/send/";
+        this.sName = "JADON KAM";
+        this.sUrlToEmailer = "https://dry-bayou-18746.herokuapp.com/send/";
         const sBase = document.location.pathname;
         if(sBase[sBase.length - 1] == "/"){
             this.sBase = sBase.substr(0, sBase.length -1);
@@ -59,7 +59,7 @@ class Items extends Page{
                 $("section#itemsInner").append(`
                 <div class="item">
                     <a class="itemLink" href="#"><img id="item${n}" src="${this.getImageSrc(this.oItems[n].specialImage)}" /></a>
-                    <a id="btnn${n}" class="itemLink btn btn-primary btn-block" href="#">Learn More</a>
+                    <a id="btnn${n}" class="itemLink btn btn-primary btn-block" href="#">View Project</a>
                 </div>
                 `);
            }
@@ -110,18 +110,18 @@ class Footer extends Page {
 
 class Contact extends Page{
     render() {
-        $("#Contact").append(`
+        $("#CONTACT").append(`
         <form action="${this.sUrlToEmailer}" method="POST">
             <div class="form-group">
-                <label>Name: <input name="name" placeholder="name" class="form-control" required /></label>
+                <label>Name: <input name="name" placeholder="Name" class="form-control" required /></label>
             </div>
             <div class="form-group">
                 <!-- Add required to make the user enter something. Add type="email" to make it have an @ symbol-->
-                <label>Email:<input name="email" placeholder="email" type="email" class="form-control"
+                <label>Email:<input name="email" placeholder="Email" type="email" class="form-control"
                         required /></label>
             </div>
             <div class="form-group">
-                <label>Message:<textarea name="message" placeholder="type your message here" class="form-control"
+                <label>Message:<textarea name="message" placeholder="Type your message here" class="form-control"
                         required></textarea></label>
             </div>
             <button type="submit">Send Message</button>
@@ -151,7 +151,7 @@ class Nav extends Page {
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Portfolio of ${this.sName}</a>
+                <a class="navbar-brand" href="#">PORTFOLIO OF ${this.sName}</a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
