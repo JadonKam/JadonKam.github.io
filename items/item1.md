@@ -2,8 +2,7 @@
 
 #### A parka coat that transforms into a backpack and sleeping bag,<br /> designed to create multi-use aid for the unhoused in cold weather conditions.
 <br />
-<img src="img/Coat2.png" style="float: left; width: 250px; margin-top: 80px">
-<img src="img/Coat3.png" style="float: right; width: 250px; margin-top: 110px">
+
 <div class="CoatProject">As the world is struggling with the COVID-19 pandemic, some individuals don’t have the privilege to have a secure environment to quarantine and socially distance themselves; sometimes resulting without shelter — and that is why our design aims to provide the unhoused with better living conditions during this time. 
 Inspired by Khaleel Seivwright, a carpenter who wanted to build and provide shelter for the unhoused in Toronto, we decided that the target users for this product would be the unhoused population.
 <br />
