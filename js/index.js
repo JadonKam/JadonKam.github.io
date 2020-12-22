@@ -47,7 +47,7 @@ class Items extends Page{
     render(){
         $.get(`${this.sBase}/items/${this.oItems[this.nCurrentItem].fname}`, (sMarkdown) => {
             $("article#current").append(`
-                <div class="itemImage"><img src="${this.getImageSrc(this.oItems[this.nCurrentItem].specialImage)}" class="itemImage" /></div>
+                <div class="itemImage"><img src="${this.getImageSrc(this.oItems[this.nCurrentItem].specialImage)}" class="itemImage" alt=""/></div>
             `);
             $("article#current").append(`
                 <div class="markdownItem">${marked(sMarkdown)}</div>
@@ -58,7 +58,7 @@ class Items extends Page{
             if(n != this.nCurrentItem){
                 $("section#itemsInner").append(`
                 <div class="item">
-                    <a class="itemLink" href="#"><img id="item${n}" src="${this.getImageSrc(this.oItems[n].specialImage)}" /></a>
+                    <a class="itemLink" href="#"><img id="item${n}" src="${this.getImageSrc(this.oItems[n].specialImage)}" alt="${this.getImageSrc(this.oItems[n].alt)}"/></a>
                     <a id="btnn${n}" class="itemLink btn btn-primary btn-block" href="#">View Project</a>
                 </div>
                 `);
@@ -155,6 +155,7 @@ class Nav extends Page {
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#Projects">PROJECTS</a></li>
                     ${sMenu}
                 </ul>
             </div>

@@ -23,8 +23,7 @@
  }
  
  h3{
-     text-decoration: underline;
-     padding: 6px;
+    text-align: center;
  }
  
  h2{
@@ -35,7 +34,9 @@
  }
 
  h4{
-     text-align: center;
+     text-decoration: underline;
+     padding: 6px;
+     font-size: 1.5em;
  }
  
  form{
@@ -46,14 +47,11 @@
  nav{
     font-family: 'Roboto', sans-serif;
  }
-
- body{
-    font-family: 'Roboto', sans-serif;
-     color: #000000;
-     background-color: #fffded;
-     line-height: 1.75;
+ .navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
  }
- 
  .navbar-inverse .navbar-brand {
      color: inherit;
      }
@@ -64,7 +62,15 @@
  .navbar-inverse {
      background-color: var(--header-bg-color);
      color: var(--header-fg-color);
- }    
+ }   
+
+ body{
+    font-family: 'Roboto', sans-serif;
+     color: #000000;
+     background-color: #fffded;
+     line-height: 1.75;
+ }
+  
  
  .btn-primary{
      background-color: var(--header-bg-color);
@@ -77,12 +83,18 @@
      margin-left:auto;
      margin-right:auto;
  }
+
+ .btn-primary:hover{
+     background-color: #ffe0cd;
+     color: #000000;
+ }
  
  button{
      background-color: var(--header-bg-color);
      color: var(--header-fg-color);
      font-family: 'Roboto Slab', serif;
      border-radius: 70px;
+     min-width: 10%;
  }
 img.itemImage{
     display: block;
@@ -173,12 +185,22 @@ footer{
     border: none;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 0px
+    margin-bottom: 0px;
+    margin-top: 65px; 
 }
 
 .about{
     text-align: center;
     width: 60%;
+    min-width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact{
+    text-align: center;
+    width: 50%;
+    min-width: 250px;
     margin-left: auto;
     margin-right: auto;
 }

@@ -1,6 +1,6 @@
 ## 3-in-1 coat
 
-#### A parka coat that transforms into a backpack and sleeping bag,<br /> designed to create multi-use aid for the unhoused in cold weather conditions.
+### A parka coat that transforms into a backpack and sleeping bag,<br /> designed to create multi-use aid for the unhoused in cold weather conditions.
 <br />
 
 <div class="CoatProject">As the world is struggling with the COVID-19 pandemic, some individuals don’t have the privilege to have a secure environment to quarantine and socially distance themselves; sometimes resulting without shelter — and that is why our design aims to provide the unhoused with better living conditions during this time. 
