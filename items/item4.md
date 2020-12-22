@@ -1,3 +1,10 @@
 ## MyHelpSpace
 
-#### A section on Laurier's MyLearningSpace to help students with different problems
+### A section on Laurier's MyLearningSpace to help students with different problems
+<br />
+This page on the MyLearningSpace website was designed to help second to fourth year students, specifically transfer students, with their questions about Laurier. Through user interviews, we found that most second to fourth year students felt there was less student support compared to their first year; however, they were still able to figure things out. This is because in the first year, many students live in residence and have easy access to dons who they can ask questions to and have access to more orientation events. The biggest problem we found was with transfer students who did not have that first year opportunity and had to figure out many of Laurier's information by themselves. Through user interviews, we found that transfer students and second to fourth year students would both prefer an online resource over an in-person resource, so we created MyHelpSpace.
+On the MyHelpSpace pages, students have easy access to booking appointments for resources like academic advising, information about different academic and social resources, as well as a discussion forum where they can post questions, answer questions, and view other questions and answers.
+<br />
+<br />
+<u>My Angle</u> <br />
+The initial problem we were asked to solve was to investigate whether "sophomore slump" existed at Laurier. "Sophomore slump" refers to the unsatisfied feeling that second year students can get after the novelty of the experience of university starts to diminish. According to the person who gave my group this problem to investigate, it is quite common in the United States. However, when doing research through the online library about "sophomore slump" specifically in Canada, there was no recent research about it which resulted in my group interviewing Laurier students. My role in this project included working together with my group to create questions, interview students, create ideas on how to solve the problem, brainstorming the look of the MyHelpSpace page, and user testing.
