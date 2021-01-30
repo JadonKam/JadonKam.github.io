@@ -1,4 +1,4 @@
-## 3-in-1 coat
+## My Most Recent Project: The 3-in-1 Coat
 
 ### A parka coat that transforms into a backpack and sleeping bag, designed to create multi-use aid for the unhoused in cold weather conditions.
 <br />
