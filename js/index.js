@@ -59,7 +59,7 @@ class Items extends Page{
                 $("section#itemsInner").append(`
                 <div class="item">
                     <a class="itemLink" href="#"><img id="item${n}" src="${this.getImageSrc(this.oItems[n].specialImage)}" alt="${this.getImageSrc(this.oItems[n].alt)}"/></a>
-                    <a id="btnn${n}" class="itemLink btn btn-primary btn-block" href="#">View Project</a>
+                    <a id="btnn${n}" class="itemLink btn btn-primary btn-block" href="#">Click to View Project Summary</a>
                 </div>
                 `);
            }
@@ -155,7 +155,8 @@ class Nav extends Page {
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="#Projects">PROJECTS</a></li>
+                    <li><a href="#Projects">PROJECT SUMMARY</a></li>
+                    <li><a href="#More">MORE PROJECTS</a></li>
                     ${sMenu}
                 </ul>
             </div>

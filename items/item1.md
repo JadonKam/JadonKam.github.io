@@ -1,29 +1,32 @@
-## My Most Recent Project: The 3-in-1 Coat
+## My Most Recent Project: Creating a Resource for Youth and their Political Opinions
 
-### A parka coat that transforms into a backpack and sleeping bag, designed to create multi-use aid for the unhoused in cold weather conditions.
+### Activities and a curriculum that allow youth to share their opinions with other youth and adults more effectively and gives them an opportunity to learn more about politics.
 <br />
 
-<div class="CoatProject">As the world is struggling with the COVID-19 pandemic, having an environment where people can maintain social distance is difficult to find for the unhoused. This results in many of them not being able tp sleep in a shelter and have to sleep outside. Our design aims to provide the unhoused with better living conditions during this time as the weather gets colder. 
-Inspired by Khaleel Seivwright, a carpenter who wanted to build and provide shelter for the unhoused in Toronto, my group decided that the target users for this product would be the unhoused population.
+<u>The Problem</u> <br />
+On Unicef's Index of Child Well-being, Canada ranks 30th internationally which is uncomfortably low. Unicef believes that allowing the voices of youth to be heard by others and lowering Canada’s voting age to 16 will improve our international ranking. The objective of the project Overlap Associates presented to my group was to figure a way to address this problem.
 <br />
 <br />
-<u>Transforming the Coat to a Sleeping Bag</u> <br />
-Our product can be used as a coat, sleeping bag, or backpack. The coat helps keep the user warm in colder weather and can be easily converted into a sleeping bag through folding a flap down. The sleeping bag provides warmth for the user when they go to sleep. The coat and sleeping bag use fabric with heating technology that absorbs the moisture of the user and converts it into warmth.<br /><br />
-<img src="img/SleepingBag.png" class="itemImage" alt="picture showing how to transform the coat to a sleeping bag"/>
-<br />
-<br />
-<u>Transforming the Sleeping Bag to a Backpack</u> <br />
-When the jacket or sleeping bag are not being used, our design can be converted into a backpack. Flipping the sleeping bag extension inside out, turns it into an inner pocket for the backpack. By connecting the buckles on the sleeves and the coat's pockets, the sleeves will transform into the straps for the backpack. When the entire coat is zipped, and the coat is flipped upside down, it can be transformed into a backpack. Since the zipper is zipped all the way, there are no holes for anything to fall out of the backpack. The hood can then be attached to the back of the coat by buttoning the hood to the back. Once the small flap is buttoned to close the backpack, the backpack is fully transformed
+<u>User Research</u> <br />
+Through user research such as interviews with youth and adults as well as using existing research done by the Canadian government, we learned that there are two main categories of youth. Those who are more politically involved feel that no one is really listening to their voices. Those who are not politically involved, feel that they do not know enough about politics or lack an interest in politics and as a result, do not participate. For adults, we interviewed parents assuming they could provide us with some insight about youth sharing their opinions. However, surprisingly, we found out that when voting, parents do not place a large emphasis on how the goals of politicians will affect youth. As a result of our research, we learned that we had to design something that would allow more people, especially parents, to listen and have empathy for the opinions of youth and would allow youth to learn more about politics.
 <br /><br />
-<img src="img/Backpack.png" class="itemImage" alt="picture showing how to transform the sleeping bag to a backpack"/>
+<u>The Solution</u> <br />
+We realized that a curriculum at school which incorporated politics from a young age would be the solution to this problem. Although it was tempting to design an app or website, given that those are frequently the solutions UX designers go to for different problems, we realized that the solution to this large problem needed to be much larger and more long-term than an app or website. Our curriculum design introduces the role of government and our political leaders to children at an early age. During this time, it won’t be a deep dive into learning about politics as the aim is to help them become more aware of our government while they’re young through fun activities such as the one below.
 <br />
+<br/>
+<img src="img/Town.png" class="itemImage" alt="A worksheet where children build a town and learn about the government"/>
 <br />
-<u>My Angle</u> <br />
-My individual role was brainstorming of ways we could transform the coat to a sleeping bag and backpack as well as creating the drawings of the 3-in-1 coat and its transformation process. Originally, our team was thinking of the 3 objects being a coat, backpack, and blanket, but I suggested a sleeping bag would be more useful than a blanket. There was a news article that inspired us to choose this topic as it mentioned how Khaleel Seivwright's shelters were being shut down by the city (Jones). I was quite surprised by this as the city says that the shelters' potential fire safety issues are a problem, but they haven't even made an effort to contact Seivwright to inspect his shelters for safety issues. They are also shutting the shelters down when the unhoused need them the most as it is getting cold. This motivated me to think of ways we could help the unhoused and led to the creation of this product which focuses on helping keep the user warm and providing the user with a product they can use in multiple ways since purchasing a separate coat, sleeping bag, and backpack would be expensive. Just like Seivwright's shelters which he says are a temporary aid, I believe our 3-in-1 coat is a temporary aid for now as the city is still thinking of ways to find shelter for the unhoused.
+In this craft, children can make a town and pretend they’re the mayor of it. While they make this craft, the class can talk about what they need in their towns and how the government works in different areas to run a town. By incorporating politics into fun activities like these, youth can start to gain more interest and knowledge in politics, which was a problem they faced in our research. At the same time, adults can learn about what children think the government does and what they want their leaders to do. These activities and resources would also be accessible for parents on Unicef’s website, so they can do it at home. This creates an opportunity for adults to answer and talk to children more about our government. 
 <br />
+<br/>
+As children grow older, their activities will go deeper into politics such as the news report activity and booklet about politics below.
 <br />
-<u>References</u> <br />
-Jones, Alexandra  Mae. “City of Toronto Threatens to Remove Tiny Shelters Built to Help the 
-Homeless, Citing Safety Concerns.” <i>CTVNews</i>, CTV News, 25 Nov. 2020, www.ctvnews.ca/canada/city-of-toronto-threatens-to-remove-tiny-shelters-built-to-help-the-homeless-citing-safety-concerns-1.5205109 
+<br/>
+<img src="img/YouthActivities.png" class="itemImage" alt="A newspaper worksheet on the left and a booklet titled Politics for High Schoolers on the right"/>
+In all the activities, children will have a conversation with a parent or adult. This is done deliberately as one of the major things we saw from our research was that a conversation between adults and children about politics could address the needs of both. Activities like these help youth to learn more and provide an opportunity for them to voice out their opinions. For adults, they can hear another perspective, gain empathy for youth, and understand how their decisions can improve youth well-being.
+<br />
+<br/>
+<u>My Role</u> <br />
+My role in this project was the lead researcher. I created many of the questions that our team would ask others in interviews and analyzed our research results to find what were the needs of different users. I also created the three activities/resources that are seen on this page: the town craft, the newspaper activity, and the politics booklet. I worked together with my team to figure out what solutions would solve the problem that Overlap Associates and Unicef brought to us and the problems that we discovered through research.
 </div>
 <br />

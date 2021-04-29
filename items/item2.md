@@ -1,38 +1,29 @@
-## Task.do
+## The 3-in-1 Coat
 
-### A planning app that motivates you to finish your plans and take care of a virtual pig/plant
+### A parka coat that transforms into a backpack and sleeping bag, designed to create multi-use aid for the unhoused in cold weather conditions.
 <br />
-This app was the result of my group's interest in learning more about the daily lives of post-secondary students. We started with interviewing some students who attend a university or college and asked them questions related to their daily tasks, school work, physical health, mental health, hobbies, and more. Through our interviews, we gained research which we used to create an empathy map and persona to understand our user group better. Through understanding and analyzing our users, we discovered that a common problem that post-secondary students faced was procrastination in finishing their school work, which results in an unproductive day. This was because of reasons such as a lack of motivation, a lack of interest in the work, not planning their day well, and more. To solve this problem we created the app "Task.do".
-<br /><br />
-<u>How to Use the App</u> <br />
-We designed an app that allows users to set daily goals each week that they will complete every day of the week, fill out their schedule with these goals and additional tasks they have to complete on a day, and check these goals on a checklist after they are completed. Setting daily goals each week was one of our solutions to procrastination. For example, a student could set the goal of studying for 30 minutes each day of the week which would prevent them from cramming hours of studying during the few days before a test.
 
-After setting their daily goals, the app would format them as blocks of time. Then, the user would drag and fit these blocks into their schedule and add any other tasks they would have to complete on that day.
-<figure class="TaskApp">
-    <figcaption> <b>From left to right: the daily goals page, the schedule page, and the schedule page filled in with the daily goals</b></figcaption>
-        <img src="img/DailyGoals.png" class="Task" alt="The Daily Goals page"/>
-    <img src="img/Schedule.png" class="Task" alt="The Schedule page"/> 
-    <img src="img/ScheduleFilled.png" class="Task" alt="The Schedule page filled in with the daily goals"/> 
-</figure> 
-    <br/>
-The app also features a virtual pig and plant. The user can choose one, and their job is to complete all their tasks to take care of it. The progress bar to the left of the pig/plant represents both how many of their daily tasks the user has completed as well as how much more the pig/plant needs to be fed/watered. As the user completes their daily tasks, the progress bar will go up.
+<div class="CoatProject">As the world is struggling with the COVID-19 pandemic, having an environment where people can maintain social distance is difficult to find for the unhoused. This results in many of them not being able tp sleep in a shelter and have to sleep outside. Our design aims to provide the unhoused with better living conditions during this time as the weather gets colder. 
+Inspired by Khaleel Seivwright, a carpenter who wanted to build and provide shelter for the unhoused in Toronto, my group decided that the target users for this product would be the unhoused population.
+<br />
+<br />
+<u>Transforming the Coat to a Sleeping Bag</u> <br />
+Our product can be used as a coat, sleeping bag, or backpack. The coat helps keep the user warm in colder weather and can be easily converted into a sleeping bag through folding a flap down. The sleeping bag provides warmth for the user when they go to sleep. The coat and sleeping bag use fabric with heating technology that absorbs the moisture of the user and converts it into warmth.<br /><br />
+<img src="img/SleepingBag.png" class="itemImage" alt="picture showing how to transform the coat to a sleeping bag"/>
+<br />
+<br />
+<u>Transforming the Sleeping Bag to a Backpack</u> <br />
+When the jacket or sleeping bag are not being used, our design can be converted into a backpack. Flipping the sleeping bag extension inside out, turns it into an inner pocket for the backpack. By connecting the buckles on the sleeves and the coat's pockets, the sleeves will transform into the straps for the backpack. When the entire coat is zipped, and the coat is flipped upside down, it can be transformed into a backpack. Since the zipper is zipped all the way, there are no holes for anything to fall out of the backpack. The hood can then be attached to the back of the coat by buttoning the hood to the back. Once the small flap is buttoned to close the backpack, the backpack is fully transformed
 <br /><br />
-Once the user completes a task, they can check it off of a checklist. Each time the user checks a task, their virtual pig/plant will be fed/watered, and the progress bar will go up. If the user does not complete all their tasks on their checklist, the progress bar will not go all the way up, which means the pig/plant will not be fully fed/watered. The pig/plant may look worse the next day depending on how much the progress bar was filled, and many days of not completing tasks can result in the pig getting sick or the plant dying. This will help motivate the user to complete their tasks every day to keep their virtual pig/plant happy and healthy.<br /><br />
-<figure class="TaskApp">
-    <figcaption> <b>From left to right: the pig page, the plant page, and the checklist page</b></figcaption>
-    <img src="img/Pig.png" class="Task" alt="The Pig page"/>
-    <img src="img/Plant.png" class="Task" alt="The Plant page"/> 
-    <img src="img/Tasks.png" class="Task" alt="The Checklist page"/> 
-</figure> 
-    <br/>
-
-<u>The Testing Process</u> <br />
-We first sketched our ideas to create paper prototypes which were tested with users through using the Wizard of Oz testing method. After gathering feedback and making changes, we created a medium-fidelity prototype on Adobe XD. This was tested with users through the method of contextual inquiry to gain information about our users' thoughts and reactions as well as through the method of A/B testing to find what aesthetic the users preferred for the app. After this, we conducted a heuristic evaluation using information from our contextual inquiry and discovered there was a lack of error prevention in our app. We worked on this and improved the app to create the prototype you see here in these pictures.
+<img src="img/Backpack.png" class="itemImage" alt="picture showing how to transform the sleeping bag to a backpack"/>
 <br />
 <br />
 <u>My Angle</u> <br />
-A video of a person who drew faces to motivate themselves to do a better job doing their daily tasks the next day inspired me to suggest that our group explore the topic of "completing daily tasks" for our project (Bartholomeus). I thought that if we could create an app where the user could see how they spent their day the previous day, that might help them do better on the current day. However, this was just an initial assumption. Through user research, our group gained a better understanding on how we could help users with their tasks which did not match my initial assumption. Many users knew that they were unproductive for many days, but that did not motivate them to be more productive. Our group needed to create something that would motivate the users using the information we gained from our research. My role in this project included interviewing someone to research our user group, working together with my group to brainstorm ways we could address the problem, creating the daily goals and schedule pages of the app, and testing the prototypes with users.
+My individual role was brainstorming of ways we could transform the coat to a sleeping bag and backpack as well as creating the drawings of the 3-in-1 coat and its transformation process. Originally, our team was thinking of the 3 objects being a coat, backpack, and blanket, but I suggested a sleeping bag would be more useful than a blanket. There was a news article that inspired us to choose this topic as it mentioned how Khaleel Seivwright's shelters were being shut down by the city (Jones). I was quite surprised by this as the city says that the shelters' potential fire safety issues are a problem, but they haven't even made an effort to contact Seivwright to inspect his shelters for safety issues. They are also shutting the shelters down when the unhoused need them the most as it is getting cold. This motivated me to think of ways we could help the unhoused and led to the creation of this product which focuses on helping keep the user warm and providing the user with a product they can use in multiple ways since purchasing a separate coat, sleeping bag, and backpack would be expensive. Just like Seivwright's shelters which he says are a temporary aid, I believe our 3-in-1 coat is a temporary aid for now as the city is still thinking of ways to find shelter for the unhoused.
 <br />
 <br />
 <u>References</u> <br />
-Bartholomeus, Ellis. “Draw a Face a Day.” <i>Quantified Self</i>, <a class=citation>https://quantifiedself.com/show-and-tell/?project=941</a>. Accessed 12 December 2020.
+Jones, Alexandra  Mae. “City of Toronto Threatens to Remove Tiny Shelters Built to Help the 
+Homeless, Citing Safety Concerns.” <i>CTVNews</i>, CTV News, 25 Nov. 2020, www.ctvnews.ca/canada/city-of-toronto-threatens-to-remove-tiny-shelters-built-to-help-the-homeless-citing-safety-concerns-1.5205109 
+</div>
+<br />
